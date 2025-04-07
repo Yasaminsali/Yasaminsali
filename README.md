@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Yasamin Salimi, a soon-to-graduate PhD researcher specializing in Alzheimer’s and Parkinson’s disease with expertise in bioinformatics, data interoperability, and disease progression modeling. My passion lies in translating complex biomedical data into actionable insights through innovative analysis, machine learning (ML), and visualization tools.
+I'm Yasamin Salimi, a bioinformatician with a passion for understanding complex diseases like Alzheimer’s and Parkinson’s. With a PhD in Bioinformatics, I specialize in data interoperability, cohort data analysis, and disease progression modeling. My work bridges biomedical data and meaningful insights using machine learning, semantic/statistical methods, and data visualization.
 
 ### 🌟 About Me:
 - 🔭 I’m currently working at Fraunhofer SCAI, focusing on data harmonization and interoperability for Alzheimer’s and Parkinson’s disease research.  
